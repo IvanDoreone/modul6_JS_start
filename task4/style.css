@@ -1,0 +1,12 @@
+a {
+    margin-left: 40px;
+    margin-top: 100px;
+    text-decoration: none;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+p {
+    font-style: italic;
+}

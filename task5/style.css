@@ -1,0 +1,28 @@
+button {
+    background-color: rgb(1, 45, 16);
+    padding: 8px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    font-weight: bold;
+    color: rgb(141, 140, 140);
+}
+section {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+button:hover {
+    border: 2px solid rgb(251, 249, 249);
+    color: aliceblue;
+}
+label {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+p {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+input {
+    border: 1px solid black;
+    border-radius: 3px;
+}

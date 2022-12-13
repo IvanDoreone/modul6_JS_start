@@ -1,0 +1,28 @@
+#trafLightBig div {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background: black;
+    margin: 10px;   
+}
+#trafLightBig {
+    background: darkgray;
+    padding: 5px;
+    max-width: 100px;
+    margin-top: 10px;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    align-items: center;  
+    text-align: center; 
+    border: 5px solid black;
+    border-radius: 7px;
+}
+span {
+    font-weight: bold;
+}
+.href {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 50px;
+  }
